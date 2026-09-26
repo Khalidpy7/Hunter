@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Author-khalidpy7-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Kali%20Linux-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Kali%20Linux-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-Bash-darkcyan?style=for-the-badge">
 </p>
 
