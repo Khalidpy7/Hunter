@@ -322,6 +322,13 @@ Current Hunter wrapper version:
 
 Created by **khalidpy7**
 <p align="center">
+  <span><b>KHALIDPY7 : </b></span>
   <a href="https://github.com/khalidpy7" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+  <span><b>CYBER TECH : </b></span>
+  <a href="https://github.com/Cyber-Tech0" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github">
   </a>
 </p>
