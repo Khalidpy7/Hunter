@@ -320,4 +320,8 @@ Current Hunter wrapper version:
 
 ## Author
 
-Created by **KHALID.S**
+Created by **khalidpy7**
+<p align="center">
+  <a href="https://github.com/khalidpy7" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
